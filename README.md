@@ -4,5 +4,4 @@ Interested in backend systems, APIs, automation, and building products that are 
 
 Worked on applications involving authentication, API integrations, databases, and ML-based features.
 
-[LinkedIn]
-(https://www.linkedin.com/in/peermomin/)
+[LinkedIn](https://www.linkedin.com/in/peermomin/)
